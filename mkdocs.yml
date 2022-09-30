@@ -1,0 +1,15 @@
+site_name: cloudcurio.us
+site_url: https://cloudcurio.us
+repo_url: https://github.com/korniko98/cloudcurio.us
+repo_name: korniko98/cloudcurio.us
+use_directory_urls: true
+edit_uri: ""
+theme:
+  name: material
+  palette:
+    scheme: slate
+    accent: deep orange
+    primary: light blue
+  features:
+    - search.highlight
+    - navigation.instant

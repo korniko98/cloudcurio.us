@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://cloudcurio.us/</loc>
+         <lastmod>2022-09-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cloudcurio.us/publications/</loc>
+         <lastmod>2022-09-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cloudcurio.us/research/</loc>
+         <lastmod>2022-09-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cloudcurio.us/resources/</loc>
+         <lastmod>2022-09-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
