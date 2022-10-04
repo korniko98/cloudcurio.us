@@ -1,6 +1,6 @@
 # About Me
 My name is Amitai, and I'm a Threat Researcher at [Wiz](https://www.wiz.io/), where I investigate cloud threats and work to advance research and detection methodology.
-My background is in cyber threat intelligence analyst and writing, and I enjoy contemplating philosophy of science, marveling at new technology and gadgets, and appreciating video games.
+My background is in cyber threat intelligence analysis and writing, and I enjoy contemplating philosophy of science, marveling at new technology and gadgets, and appreciating video games.
 ## Links
 * [Twitter](https://twitter.com/AmitaiCo)
 * [LinkedIn](https://www.linkedin.com/in/amitaico/)
