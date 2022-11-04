@@ -1,6 +1,6 @@
 # Research Methodology
 ## [Rhythms of Research](https://amitaico.substack.com/)
-Things I've written on the subject of research methodology:
+Things I've written on the subject of research methodology and the creation process of finished intelligence products:
 
 1. [Outlines](https://amitaico.substack.com/p/outlines)
 2. [Achieving Research Fluency](https://amitaico.substack.com/p/achieving-research-fluency)
@@ -9,3 +9,4 @@ Things I've written on the subject of research methodology:
 5. [Tabular Thinking](https://amitaico.substack.com/p/tabular-thinking)
 6. [Information Management](https://amitaico.substack.com/p/information-management)
 7. [Informational Strata](https://amitaico.substack.com/p/informational-strata)
+8. [Bravery in Research](https://amitaico.substack.com/p/bravery-in-research)
