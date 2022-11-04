@@ -33,15 +33,15 @@ Some useful resources for learning about security, cloud security and cyber thre
 * [TechTarget Networking Definitions](https://www.techtarget.com/searchnetworking/definitions)
 
 ## Recommended Books on Cybersecurity
-* [Network Attacks and Exploitation: A Framework by Matthew Monte](https://www.wiley.com/en-us/Network+Attacks+and+Exploitation%3A+A+Framework-p-9781118987124)
+* [Network Attacks and Exploitation: A Framework](https://www.wiley.com/en-us/Network+Attacks+and+Exploitation%3A+A+Framework-p-9781118987124) by Matthew Monte
 * [Attribution of Advanced Persistent Threats]((https://link.springer.com/book/10.1007/978-3-662-61313-9)) by [Timo Steffens](https://twitter.com/Timo_Steffens)
-* [The Hacker and the State](https://www.hup.harvard.edu/catalog.php?isbn=9780674271029&content=toc) by [Ben Buchanan]()
-* [Countdown to Zero Day](https://www.penguinrandomhouse.com/books/219931/countdown-to-zero-day-by-kim-zetter/) by [Kim Zetter]()
+* [The Hacker and the State](https://www.hup.harvard.edu/catalog.php?isbn=9780674271029&content=toc) by [Ben Buchanan](https://twitter.com/buchananben)
+* [Countdown to Zero Day](https://www.penguinrandomhouse.com/books/219931/countdown-to-zero-day-by-kim-zetter/) by [Kim Zetter](https://twitter.com/KimZetter)
 
 ## Recommended Books on Everything Else
-* [The Discworld Series by Terry Pratchett](https://www.terrypratchettbooks.com/book-series/discworld/)
-* [The Expanse Series by James S. A. Corey](https://www.jamessacorey.com/writing-type/books/)
-* [The Mistborn Saga by Brandon Sanderson](https://www.brandonsanderson.com/the-mistborn-saga-the-original-trilogy/)
-* [The Hyperion Cantos by Dan Simmons](https://www.penguinrandomhouse.com/series/HYC/hyperion-cantos)
-* [Stephen Fry's Greek Myths Series](https://www.chroniclebooks.com/products/mythos)
-* [Creativity: A Short and Cheerful Guide by John Cleese](https://www.penguinrandomhouse.com/books/224638/creativity-by-john-cleese/)
+* [The Discworld Series](https://www.terrypratchettbooks.com/book-series/discworld/) by Terry Pratchett
+* [The Expanse Series](https://www.jamessacorey.com/writing-type/books/) by James S. A. Corey
+* [The Mistborn Saga](https://www.brandonsanderson.com/the-mistborn-saga-the-original-trilogy/) by Brandon Sanderson
+* [The Hyperion Cantos](https://www.penguinrandomhouse.com/series/HYC/hyperion-cantos) by Dan Simmons
+* Stephen Fry's [Greek Myths Series](https://www.chroniclebooks.com/products/mythos)
+* [Creativity: A Short and Cheerful Guide](https://www.penguinrandomhouse.com/books/224638/creativity-by-john-cleese/) by John Cleese
