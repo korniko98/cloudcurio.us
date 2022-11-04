@@ -8,6 +8,6 @@ My background is in cyber threat intelligence analysis and writing, and I genera
 * [Mastadon](https://infosec.exchange/@AmitaiCo)
 * [Keybase](https://keybase.io/amitaico/)
 ## Projects
-* [cloudvulndb.org](https://www.cloudvulndb.org/) (also on [Twitter](https://twitter.com/cloudvulndb)) - An open repository and website set up with the goal of listing all known cloud vulnerabilities and cloud service provider security issues (all the art is made with [midjourney](https://www.midjourney.com/).
-* [Rhythms of Research](https://amitaico.substack.com/) - Essays on research methodology and the creation process of finished intelligence products (mainly from a cyber threat intel perspective, but I try to generalize).
-* [hog.net](https://korniko98.github.io/hog.net/) - A "Harry Potter" themed querying exercise for research training.
+* [cloudvulndb.org](https://www.cloudvulndb.org/) (also on [Twitter](https://twitter.com/cloudvulndb)) - an open repository and website set up with the goal of listing all known cloud vulnerabilities and cloud service provider security issues (all the art is made with [midjourney](https://www.midjourney.com/)).
+* [Rhythms of Research](https://amitaico.substack.com/) - essays on research methodology and the creation process of finished intelligence products (mainly from a cyber threat intel perspective, but I try to generalize).
+* [hog.net](https://korniko98.github.io/hog.net/) - a "Harry Potter" themed querying exercise for research training.
