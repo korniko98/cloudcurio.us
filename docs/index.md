@@ -1,6 +1,6 @@
 # About Me
-My name is Amitai, and I'm a Threat Researcher at [Wiz](https://www.wiz.io/), where I investigate cloud threats and work to advance research and detection methodology.
-My background is in cyber threat intelligence analysis and writing, and I generally enjoy learning new things about science and technology, making diagrams to help me better understand these things (currently using the wonderful [Excalidraw](https://excalidraw.com/), contemplating the philosophy of science (and cyber), reading science fiction and fantasy (or diving into wiki rabbit holes), and marveling at the latest gadgets.
+My name is Amitai and I'm a Threat Researcher at [Wiz](https://www.wiz.io/) (a cloud security company), where I investigate cloud threats and work to advance research and detection methodology.
+My background is in cyber threat intelligence analysis and writing, and I generally enjoy learning new things about science and technology, making diagrams to help me better understand these things (currently using the wonderful [Excalidraw](https://excalidraw.com/) to do so), contemplating the philosophy of science (and cyber), reading science fiction and fantasy (or diving into wiki rabbit holes), and marveling at the latest gadgets.
 ## Links
 * [Twitter](https://twitter.com/AmitaiCo)
 * [LinkedIn](https://www.linkedin.com/in/amitaico/)
