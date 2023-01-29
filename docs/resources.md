@@ -24,17 +24,9 @@ Some useful resources for learning about security, cloud security and cyber thre
 * [Kelly Shortridge](https://twitter.com/swagitda_)'s [Blog](https://kellyshortridge.com/blog/posts/)
 * [shellsharks](https://shellsharks.com/) by [Michael Sass](https://twitter.com/shellsharks)
 
-## Useful Glossaries
-* [CISA Cloud Security Glossary](https://cloudsecurityalliance.org/cloud-security-glossary/)
-* [Rapid7 Cloud Security Glossary of Terms](https://www.rapid7.com/info/cloud-security-glossary/)
-* [ZScaler Glossary](https://www.zscaler.com/resources/security-terms-glossary)
-* [FileCloud Cloud Terminology](https://www.filecloud.com/cloud-terminology-glossary/)
-* [SANS Glossary of Security Terms](https://www.sans.org/security-resources/glossary-of-terms/)
-* [TechTarget Networking Definitions](https://www.techtarget.com/searchnetworking/definitions)
-
 ## Recommended Books on Cybersecurity
 * [Network Attacks and Exploitation: A Framework](https://www.wiley.com/en-us/Network+Attacks+and+Exploitation%3A+A+Framework-p-9781118987124) by Matthew Monte
-* [Attribution of Advanced Persistent Threats]((https://link.springer.com/book/10.1007/978-3-662-61313-9)) by [Timo Steffens](https://twitter.com/Timo_Steffens)
+* [Attribution of Advanced Persistent Threats](https://link.springer.com/book/10.1007/978-3-662-61313-9) by [Timo Steffens](https://twitter.com/Timo_Steffens)
 * [The Hacker and the State](https://www.hup.harvard.edu/catalog.php?isbn=9780674271029&content=toc) by [Ben Buchanan](https://twitter.com/buchananben)
 * [Countdown to Zero Day](https://www.penguinrandomhouse.com/books/219931/countdown-to-zero-day-by-kim-zetter/) by [Kim Zetter](https://twitter.com/KimZetter)
 
@@ -45,3 +37,11 @@ Some useful resources for learning about security, cloud security and cyber thre
 * [The Hyperion Cantos](https://www.penguinrandomhouse.com/series/HYC/hyperion-cantos) by Dan Simmons
 * Stephen Fry's [Greek Myths Series](https://www.chroniclebooks.com/products/mythos)
 * [Creativity: A Short and Cheerful Guide](https://www.penguinrandomhouse.com/books/224638/creativity-by-john-cleese/) by John Cleese
+
+## Useful Glossaries
+* [CISA Cloud Security Glossary](https://cloudsecurityalliance.org/cloud-security-glossary/)
+* [Rapid7 Cloud Security Glossary of Terms](https://www.rapid7.com/info/cloud-security-glossary/)
+* [ZScaler Glossary](https://www.zscaler.com/resources/security-terms-glossary)
+* [FileCloud Cloud Terminology](https://www.filecloud.com/cloud-terminology-glossary/)
+* [SANS Glossary of Security Terms](https://www.sans.org/security-resources/glossary-of-terms/)
+* [TechTarget Networking Definitions](https://www.techtarget.com/searchnetworking/definitions)

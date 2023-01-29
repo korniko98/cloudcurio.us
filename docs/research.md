@@ -10,3 +10,4 @@ Things I've written on the subject of research methodology and the creation proc
 6. [Information Management](https://amitaico.substack.com/p/information-management)
 7. [Informational Strata](https://amitaico.substack.com/p/informational-strata)
 8. [Bravery in Research](https://amitaico.substack.com/p/bravery-in-research)
+9. [Arrangements](https://amitaico.substack.com/p/arrangements)
