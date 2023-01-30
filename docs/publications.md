@@ -18,3 +18,4 @@
 * [Spring4Shell (CVE-2022-22965)](https://twitter.com/AmitaiCo/status/1512288768602120194/photo/1)
 * [Vulnerability assessment using CPE](https://twitter.com/AmitaiCo/status/1529063489452625920/photo/1)
 * [OpenSSL vulnerabilities (CVE-2022-3786, CVE-2022-3602)](https://twitter.com/AmitaiCo/status/1587450244195045376/photo/1)
+* [Oktapus / ScatterSwine activity overview](https://twitter.com/AmitaiCo/status/1563952802040274945/photo/1)
