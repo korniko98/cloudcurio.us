@@ -13,3 +13,16 @@ theme:
   features:
     - search.highlight
     - navigation.instant
+    - navigation.footer
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/AmitaiCo
+    - icon: fontawesome/brands/mastodon 
+      link: https://infosec.exchange/@AmitaiCo
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/in/amitaico/
+    - icon: fontawesome/brands/github 
+      link: https://github.com/korniko98
+    - icon: fontawesome/brands/keybase 
+      link: https://keybase.io/amitaico/
