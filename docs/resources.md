@@ -18,6 +18,7 @@ Some useful resources for learning about security, cloud security and cyber thre
 * [Last Week in AWS](https://www.lastweekinaws.com/) by [Corey Quinn](https://twitter.com/QuinnyPig)
 * [AWS Security Digest](https://awssecuritydigest.com/) by [Victor Grenu](https://twitter.com/zoph)
 * [tl;dr sec](https://tldrsec.com/) by [Clint Gibler](https://twitter.com/clintgibler)
+* [Sources & Methods](https://newsletter.sourcesmethods.com/) by [Matthew Conway](https://mastodon.social/@mattreduce)
 * [Seriously Risky Business](https://srslyriskybiz.substack.com/) by [Tom Uren](https://twitter.com/tomatospy)
 * [Risky Business News](https://riskybiznews.substack.com/) by [Catalin Cimpanu](https://twitter.com/campuscodi)
 * [The Info Op](https://grugq.substack.com/) by [thegrugq](https://twitter.com/thegrugq)
