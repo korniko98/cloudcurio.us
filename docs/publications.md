@@ -2,6 +2,7 @@
 
 ## Blogposts
 * [Redirection Roulette: Thousands of hijacked websites in East Asia redirecting visitors to other sites](https://www.wiz.io/blog/redirection-roulette)
+* [Detect critical application misconfiguration risks](https://www.wiz.io/blog/detect-critical-application-misconfiguration-risks)
 * [Hardening your cloud environment against LAPSUS$-like threat actors](https://www.wiz.io/blog/hardening-your-cloud-environment-against-lapsus-like-threat-actor)
 * [Addressing the Spring4Shell and CVE-2022-22963 RCE vulnerabilities in cloud environments](https://www.wiz.io/blog/addressing-recent-spring4shell-and-cve-2022-22963-rce-vulnerabilities-with-wiz)
 * [Securing AWS Lambda function URLs](https://www.wiz.io/blog/securing-aws-lambda-function-urls)
@@ -18,6 +19,7 @@
 ## Diagrams
 * [AWS IAM](https://twitter.com/AmitaiCo/status/1504907093286998026/photo/1)
 * [CircleCI breach](https://twitter.com/AmitaiCo/status/1620134268885434370/photo/1)
+* [LastPass breach](https://twitter.com/AmitaiCo/status/1635317270296793091/photo/1)
 * [Fast Company breach](https://twitter.com/AmitaiCo/status/1580555346535669761/photo/1)
 * [Heroku / Travis CI / GitHub / npm breach](https://twitter.com/AmitaiCo/status/1531335680051269635/photo/1)
 * [Spring4Shell (CVE-2022-22965)](https://twitter.com/AmitaiCo/status/1512288768602120194/photo/1)
