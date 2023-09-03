@@ -5,6 +5,7 @@ Some useful resources for learning about security, cloud security and cyber thre
 
 * [learntocloud](https://learntocloud.guide/)
 * [Cloud Security Resources](https://www.nojones.net/cloud-security-resources) by [Nick Jones](https://twitter.com/nojonesuk)
+* [Getting into AWS cloud security research as a n00bcake](https://dagrz.com/writing/aws-security/getting-into-aws-security-research/) by [Daniel Grzelak](https://twitter.com/dagrz)
 * [A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) by [Katie Nickels](https://twitter.com/likethecoins)
 
 ## Recommended Podcasts
@@ -17,6 +18,7 @@ Some useful resources for learning about security, cloud security and cyber thre
 * [This Week in Security](https://this.weekinsecurity.com/) by [Zack Whittaker](https://twitter.com/zackwhittaker)
 * [Last Week in AWS](https://www.lastweekinaws.com/) by [Corey Quinn](https://twitter.com/QuinnyPig)
 * [AWS Security Digest](https://awssecuritydigest.com/) by [Victor Grenu](https://twitter.com/zoph)
+* [Detection Engineering](https://www.detectionengineering.net/) by [Zack Allen](https://twitter.com/techyteachme)
 * [tl;dr sec](https://tldrsec.com/) by [Clint Gibler](https://twitter.com/clintgibler)
 * [Sources & Methods](https://newsletter.sourcesmethods.com/) by [Matthew Conway](https://mastodon.social/@mattreduce)
 * [Seriously Risky Business](https://srslyriskybiz.substack.com/) by [Tom Uren](https://twitter.com/tomatospy)
