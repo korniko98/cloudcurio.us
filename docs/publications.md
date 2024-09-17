@@ -1,6 +1,7 @@
 # Publications
 
 ## Blogposts
+* [Eight questions to measure vulnerability remediation "pain"](https://www.wiz.io/blog/eight-questions-to-measure-vulnerability-remediation-pain)
 * [Storm-0558 Update: Takeaways from Microsoft's recent report](https://www.wiz.io/blog/key-takeaways-from-microsofts-latest-storm-0558-report)
 * [How to leverage generative AI in cloud apps without putting user data at risk](https://www.wiz.io/blog/genai-tenant-isolation) (with Barak Sharoni)
 * [Redirection Roulette: Thousands of hijacked websites in East Asia redirecting visitors to other sites](https://www.wiz.io/blog/redirection-roulette) (with Barak Sharoni)
