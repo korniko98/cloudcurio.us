@@ -11,6 +11,7 @@
 ## Papers & Reports
 * PEACH: a tenant isolation framework for cloud applications ([Whitepaper](https://www.datocms-assets.com/75231/1671033753-peach_whitepaper_ver1-1.pdf), [Website](https://peach.wiz.io/), [Blogpost](https://www.wiz.io/blog/introducing-peach-a-tenant-isolation-framework-for-cloud-applications))
 * The State of the Cloud 2023 (with [Scott Piper](https://twitter.com/0xdabbad00)) ([Report](https://www.wiz.io/blog/the-top-cloud-security-threats-to-be-aware-of-in-2023))
+* State of AI in the Cloud 2024 ([Report](https://www.wiz.io/blog/key-findings-from-the-state-of-ai-in-the-cloud-report-2024))
 
 ## Talks
 * "We built a community cloud vulnerability database, now what?" (with [Alon Schindel](https://twitter.com/41thexplorer)) ([Recording](https://youtu.be/KwDo6KG76_c), [Slides](https://pretalx.com/media/fwd-cloudsec-2022/submissions/YJBJPK/resources/cloudvulndb_fwd_jLR2QM9.pdf))
@@ -19,6 +20,8 @@
 ## Podcast Episodes
 * [Key findings about Storm-0558](https://www.youtube.com/watch?v=khywfhJv4H8) (SANS Threat Analysis Rundown with [Katie Nickels](https://twitter.com/likethecoins))
 * [Isolation is just PEACHy](https://soundcloud.com/owasp-podcast/2023-02-isolation-is-just-peachy) (The OWASP Podcast Series)
+* [Threat Trends: Addressing Risk in the Cloud with Wiz](https://www.mandiant.com/resources/podcasts/threat-trends-risk-cloud-wiz) (Mandiant's Defender’s Advantage Podcast)
+* [Interview by Dave Bittner](https://thecyberwire.com/podcasts/daily-podcast/2018/notes) (CyberWire Daily)
 
 ## Diagrams
 * [AWS IAM](https://twitter.com/AmitaiCo/status/1504907093286998026/photo/1)
@@ -35,3 +38,6 @@
 * [Spring4Shell (CVE-2022-22965)](https://twitter.com/AmitaiCo/status/1512288768602120194/photo/1)
 * [OpenSSL vulnerabilities (CVE-2022-3786, CVE-2022-3602)](https://twitter.com/AmitaiCo/status/1587450244195045376/photo/1)
 * [OpenSSH vulnerability (CVE-2023-38408)](https://twitter.com/AmitaiCo/status/1686723523966808064/photo/1)
+
+## Other
+* [Guided Vulnerability Meditation](https://www.youtube.com/watch?v=9XHURa1ORgA) ([CISOasis](https://www.cisoasis.com/))
