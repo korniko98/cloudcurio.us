@@ -1,6 +1,6 @@
 # About Me
-My name is Amitai and I'm a Threat Researcher at [Wiz](https://www.wiz.io/) (a cloud security company), where I investigate cloud threats and work to advance research and detection methodology.
-My background is in cyber threat intelligence analysis and writing, and I generally enjoy learning new things about science and technology, making diagrams to help me better understand these things (currently using the wonderful [Excalidraw](https://excalidraw.com/) to do so), contemplating the philosophy of science (and cyber), reading science fiction and fantasy (or diving into wiki rabbit holes), and marveling at gadgets.
+Amitai Cohen leads the Attack Vector Intel team at Wiz (a cloud security company), managing research of emerging threats to public cloud infrastructure while supporting development of threat detection and risk mitigation capabilities. Amitai's background is in military intelligence and cyber threat intelligence analysis, working in various analysis, training, and leadership roles within IDF intelligence over a period of 15 years prior to joining Wiz. Amitai's interests include research methodology, knowledge management systems, writing, contemplating the philosophy of science (and cyber), reading science fiction and fantasy (or diving into wiki rabbit holes), marveling at new gadgets, and sketching diagrams of technical concepts (currently using the wonderful [Excalidraw](https://excalidraw.com/) to do so).
+
 ## Links
 * [Twitter](https://twitter.com/AmitaiCo)
 * [LinkedIn](https://www.linkedin.com/in/amitaico/)
