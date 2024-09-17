@@ -41,11 +41,3 @@ Some useful resources for learning about security, cloud security and cyber thre
 * Stephen Fry's [Greek Myths Series](https://www.chroniclebooks.com/products/mythos)
 * [Creativity: A Short and Cheerful Guide](https://www.penguinrandomhouse.com/books/224638/creativity-by-john-cleese/) by John Cleese
 * [The Mountain in the Sea](https://www.weidenfeldandnicolson.co.uk/titles/ray-nayler/the-mountain-in-the-sea/9781399600460/) by Ray Nayler
-
-## Useful Glossaries
-* [CISA Cloud Security Glossary](https://cloudsecurityalliance.org/cloud-security-glossary/)
-* [Rapid7 Cloud Security Glossary of Terms](https://www.rapid7.com/info/cloud-security-glossary/)
-* [ZScaler Glossary](https://www.zscaler.com/resources/security-terms-glossary)
-* [FileCloud Cloud Terminology](https://www.filecloud.com/cloud-terminology-glossary/)
-* [SANS Glossary of Security Terms](https://www.sans.org/security-resources/glossary-of-terms/)
-* [TechTarget Networking Definitions](https://www.techtarget.com/searchnetworking/definitions)
