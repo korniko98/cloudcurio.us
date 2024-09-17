@@ -9,7 +9,8 @@ My background is in cyber threat intelligence analysis and writing, and I genera
 * [Keybase](https://keybase.io/amitaico/)
 ## Projects
 * [Pivot Atlas](https://gopivot.ing/) - an educational pivoting handbook for cyber threat intelligence analysts.
-* [cloudvulndb.org](https://www.cloudvulndb.org/) (also on [Twitter](https://twitter.com/cloudvulndb) and [Mastodon](https://infosec.exchange/@cloudvulndb)) - an open repository and website set up with the goal of listing all known cloud vulnerabilities and cloud service provider security issues (all the art is made with [midjourney](https://www.midjourney.com/)).
-* [Rhythms of Research](https://amitaico.substack.com/) - essays on research methodology and the creation process of finished intelligence products (mainly from a cyber threat intel perspective, but I try to generalize).
-* [Crying out Cloud](https://open.spotify.com/show/7aCkHu5UVFctNExXSWvcO2) - a monthly cloud security news podcast (with [Eden Koby Naftali](https://www.linkedin.com/in/eden-naftali-b6457b130/)).
+* [Rhythms of Research](https://amitaico.substack.com/) - personal essays on research methodology and the creation process of finished intelligence products (mainly from a cyber threat intel perspective, but I try to generalize).
 * [hog.net](https://korniko98.github.io/hog.net/) - a "Harry Potter" themed querying exercise for research training.
+* [CloudVulnDB](https://www.cloudvulndb.org/) (also on [Twitter](https://twitter.com/cloudvulndb) and [Mastodon](https://infosec.exchange/@cloudvulndb)) - an open repository and website set up with the goal of listing all known cloud vulnerabilities and cloud service provider security issues (most of the art is generated with [midjourney](https://www.midjourney.com/)).
+* [Cloud Threat Landscape](https://threats.wiz.io/) - a comprehensive threat intelligence database of cloud security incidents, actors, tools and techniques.
+* [Crying out Cloud](https://open.spotify.com/show/7aCkHu5UVFctNExXSWvcO2) - a monthly cloud security news podcast (with [Eden Koby Naftali](https://www.linkedin.com/in/eden-naftali-b6457b130/)).
