@@ -11,3 +11,7 @@ Things I've written on the subject of research methodology and the creation proc
 7. [Informational Strata](https://amitaico.substack.com/p/informational-strata)
 8. [Bravery in Research](https://amitaico.substack.com/p/bravery-in-research)
 9. [Arrangements](https://amitaico.substack.com/p/arrangements)
+10. [What I look for in blogposts](https://amitaico.substack.com/p/what-i-look-for-in-blogposts)
+11. [Thrunting Grounds](https://amitaico.substack.com/p/thrunting-grounds)
+12. [Intelligence Failure in Threat Detection](https://amitaico.substack.com/p/intelligence-failure-in-threat-detection)
+13. [The Other Pyramids](https://amitaico.substack.com/p/the-other-pyramids)
