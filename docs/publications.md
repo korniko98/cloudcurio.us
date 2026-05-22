@@ -19,7 +19,7 @@
 * [The Indirect Realism of Threat Research](https://amitaico.substack.com/p/the-indirect-realism-of-threat-research)
 
 ## Work Blogposts
-> [Author page on Wiz blog](https://www.wiz.io/authors/amitaico)
+> See more on my [Wiz blog author page](https://www.wiz.io/authors/amitaico).
 * [Unmasking Phishing: Strategies for identifying 0ktapus domains and beyond](https://www.wiz.io/blog/unmasking-phishing-strategies-for-identifying-0ktapus-domains) (with Shahar Dorfman)
 * [Tracking cloud-fluent threat actors - Part one: Atomic cloud IOCs](https://www.wiz.io/blog/mastering-cloud-specific-indicators-of-compromise-iocs) (with Merav Bar)
 * [Eight questions to measure vulnerability remediation "pain"](https://www.wiz.io/blog/eight-questions-to-measure-vulnerability-remediation-pain)
@@ -56,7 +56,7 @@
 * [Midnight Blizzard Exchange Online Exfiltration Campaign](https://x.com/AmitaiCo/status/1807343687954735203/photo/1)
 * [3CX breach](https://twitter.com/AmitaiCo/status/1650118046915108865/photo/1)
 * [JumpCloud breach](https://twitter.com/AmitaiCo/status/1681923359771181056/photo/1)
-* [Oktapus / ScatterSwine activity overview](https://twitter.com/AmitaiCo/status/1563952802040274945/photo/1)
+* [Oktapus / ScatterSwine activity overview](https://twitter.com/AmitaiCo/status/1563952802040274945/photo/1) (featured in [Krebs on Security](https://krebsonsecurity.com/2024/01/fla-man-charged-in-sim-swapping-spree-is-key-suspect-in-hacker-groups-oktapus-scattered-spider/)) 
 * [CircleCI breach](https://twitter.com/AmitaiCo/status/1620134268885434370/photo/1)
 * [LastPass breach](https://twitter.com/AmitaiCo/status/1635317270296793091/photo/1)
 * [Fast Company breach](https://twitter.com/AmitaiCo/status/1580555346535669761/photo/1)
