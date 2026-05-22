@@ -2,6 +2,7 @@
 
 ## Personal Blogposts
 > [Rhythms of Research](https://amitaico.substack.com/) - things I've written on the subject of research methodology and the creation process of finished intelligence products.
+
 * [Outlines](https://amitaico.substack.com/p/outlines)
 * [Achieving Research Fluency](https://amitaico.substack.com/p/achieving-research-fluency)
 * [Narrative in Research](https://amitaico.substack.com/p/narrative-in-research)
@@ -20,6 +21,7 @@
 
 ## Work Blogposts
 > See more on my [Wiz blog author page](https://www.wiz.io/authors/amitaico).
+
 * [Unmasking Phishing: Strategies for identifying 0ktapus domains and beyond](https://www.wiz.io/blog/unmasking-phishing-strategies-for-identifying-0ktapus-domains) (with Shahar Dorfman)
 * [Tracking cloud-fluent threat actors - Part one: Atomic cloud IOCs](https://www.wiz.io/blog/mastering-cloud-specific-indicators-of-compromise-iocs) (with Merav Bar)
 * [Eight questions to measure vulnerability remediation "pain"](https://www.wiz.io/blog/eight-questions-to-measure-vulnerability-remediation-pain)
@@ -43,6 +45,7 @@
 
 ## Podcast Recordings
 > Co-hosting [Crying out Cloud](https://www.wiz.io/crying-out-cloud) with Eden Naftali.
+
 * [Wiz sees big impact of AI on runtime security, but also stresses old threats](https://podcast.techzine.eu/2359097/episodes/18814085-wiz-sees-big-impact-of-ai-on-runtime-security-but-also-stresses-old-threats) (Techzine TV Podcast)
 * [Key findings about Storm-0558](https://www.youtube.com/watch?v=khywfhJv4H8) (SANS Threat Analysis Rundown with [Katie Nickels](https://twitter.com/likethecoins))
 * [Isolation is just PEACHy](https://soundcloud.com/owasp-podcast/2023-02-isolation-is-just-peachy) (The OWASP Podcast Series)
