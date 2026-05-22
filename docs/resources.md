@@ -1,4 +1,4 @@
-# Recommended Resources
+# Resources
 
 ## Getting Started in Cloud Security and Threat Intel
 Some useful resources for learning about security, cloud security and cyber threat intelligence:
