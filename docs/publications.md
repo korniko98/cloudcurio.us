@@ -56,7 +56,7 @@
 * [How do open-source supply chain attacks happen, and when should I worry?](https://x.com/AmitaiCo/status/1950896924401209666/photo/1)
 * [Storm-0558 email exfiltration](https://twitter.com/AmitaiCo/status/1680955485468385281/photo/1)
 * [Storm-0558 signing key capture](https://twitter.com/AmitaiCo/status/1699882148033970542/photo/1)
-* [Midnight Blizzard Exchange Online Exfiltration Campaign](https://x.com/AmitaiCo/status/1807343687954735203/photo/1)
+* [Midnight Blizzard Exchange Online Exfiltration Campaign](https://x.com/i/status/1752403186902835341/photo/1)
 * [3CX breach](https://twitter.com/AmitaiCo/status/1650118046915108865/photo/1)
 * [JumpCloud breach](https://twitter.com/AmitaiCo/status/1681923359771181056/photo/1)
 * [Oktapus / ScatterSwine activity overview](https://twitter.com/AmitaiCo/status/1563952802040274945/photo/1) (featured in [Krebs on Security](https://krebsonsecurity.com/2024/01/fla-man-charged-in-sim-swapping-spree-is-key-suspect-in-hacker-groups-oktapus-scattered-spider/)) 
