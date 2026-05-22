@@ -9,8 +9,8 @@ Amitai Cohen leads the Attack Vector Intel team at Wiz (a cloud security company
 
 ## Personal Projects
 * [Pivot Atlas](https://gopivot.ing/) - an educational pivoting handbook for cyber threat intelligence analysts.
-* [Rhythms of Research](https://amitaico.substack.com/) - personal essays on research methodology and the creation process of finished intelligence products (mainly from a cyber threat intel perspective, but I try to generalize).
-* [hog.net](https://korniko98.github.io/hog.net/) - a "Harry Potter" themed querying exercise for research training.
+* [Rhythms of Research](https://research.cloudcurio.us/) - personal essays on research methodology and the creation process of finished intelligence products (mainly from a cyber threat intel perspective, but I try to generalize).
+* [hog.net](https://hognet.cloudcurio.us/) - a "Harry Potter" themed querying exercise for research training.
 
 ## Work Projects
 * [CloudVulnDB](https://www.cloudvulndb.org/) (also on [Twitter](https://twitter.com/cloudvulndb) and [Mastodon](https://infosec.exchange/@cloudvulndb)) - an open repository and website set up with the goal of listing all known cloud vulnerabilities and cloud service provider security issues (most of the art is generated with [midjourney](https://www.midjourney.com/)).
