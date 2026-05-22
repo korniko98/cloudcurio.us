@@ -32,9 +32,9 @@
 ## Papers & Reports
 * PEACH: a tenant isolation framework for cloud applications ([Whitepaper](https://www.datocms-assets.com/75231/1671033753-peach_whitepaper_ver1-1.pdf), [Website](https://peach.wiz.io/), [Blogpost](https://www.wiz.io/blog/introducing-peach-a-tenant-isolation-framework-for-cloud-applications))
 * The State of the Cloud 2023 (with [Scott Piper](https://twitter.com/0xdabbad00)) ([Report](https://www.wiz.io/blog/the-top-cloud-security-threats-to-be-aware-of-in-2023))
-* State of AI in the Cloud 2024 ([Report](https://www.wiz.io/blog/key-findings-from-the-state-of-ai-in-the-cloud-report-2024), [Blogpost](https://www.wiz.io/blog/key-findings-from-the-state-of-ai-in-the-cloud-report-2024)
-* State of AI in the Cloud 2025 ([Report](https://www.wiz.io/reports/the-state-of-ai-in-the-cloud-2025), [Blogpost](https://www.wiz.io/blog/state-of-cloud-ai-report-takeaways)
-* State of AI in the Cloud 2026 ([Report](https://www.wiz.io/reports/state-of-ai-in-the-cloud-2026), [Blogpost](https://www.wiz.io/blog/state-of-ai-in-cloud-2026-recap)
+* State of AI in the Cloud 2024 ([Report](https://www.wiz.io/blog/key-findings-from-the-state-of-ai-in-the-cloud-report-2024), [Blogpost](https://www.wiz.io/blog/key-findings-from-the-state-of-ai-in-the-cloud-report-2024))
+* State of AI in the Cloud 2025 ([Report](https://www.wiz.io/reports/the-state-of-ai-in-the-cloud-2025), [Blogpost](https://www.wiz.io/blog/state-of-cloud-ai-report-takeaways))
+* State of AI in the Cloud 2026 ([Report](https://www.wiz.io/reports/state-of-ai-in-the-cloud-2026), [Blogpost](https://www.wiz.io/blog/state-of-ai-in-cloud-2026-recap))
 
 ## Talks
 * "We built a community cloud vulnerability database, now what?" @ fwd:cloudsec (with [Alon Schindel](https://twitter.com/41thexplorer)) ([Recording](https://youtu.be/KwDo6KG76_c), [Slides](https://pretalx.com/media/fwd-cloudsec-2022/submissions/YJBJPK/resources/cloudvulndb_fwd_jLR2QM9.pdf))
