@@ -42,6 +42,7 @@
 * "We built a community cloud vulnerability database, now what?" @ fwd:cloudsec (with [Alon Schindel](https://twitter.com/41thexplorer)) ([Recording](https://youtu.be/KwDo6KG76_c), [Slides](https://pretalx.com/media/fwd-cloudsec-2022/submissions/YJBJPK/resources/cloudvulndb_fwd_jLR2QM9.pdf))
 * "The Good, the Bad, and the Vulnerable: A comprehensive overview of vulnerabilities in cloud environments" @ fwd:cloudsec (with [Merav Bar](https://twitter.com/merav_br)) ([Recording](https://youtu.be/KwDo6KG76_c))
 * "The Forensic Trail On GitHub: Hunting For Supply Chain Activity" @ Black Hat Europe (with [Rami McCarthy](https://ramimac.me/)) ([Slides](https://i.blackhat.com/BH-EU-25/eu-25-McCarthy-Forensic-Trail-GitHub.pdf), [Dark Reading coverage](https://www.darkreading.com/application-security/supply-chain-attacks-targeting-github-actions-increased-in-2025))
+* "Angel(dust) in the Cloud: TeamPCP shows the vulnerability of CI/CD systems" @ SLEUTHCON (with [Ben Read](https://www.linkedin.com/in/benjamin-read-41817121/)) ([Abstract](https://www.sleuthcon.com/angeldust-in-the-cloud))
 
 ## Podcast Recordings
 > Co-hosting [Crying out Cloud](https://www.wiz.io/crying-out-cloud) with Eden Naftali.
@@ -51,6 +52,7 @@
 * [Isolation is just PEACHy](https://soundcloud.com/owasp-podcast/2023-02-isolation-is-just-peachy) (The OWASP Podcast Series)
 * [Threat Trends: Addressing Risk in the Cloud with Wiz](https://www.mandiant.com/resources/podcasts/threat-trends-risk-cloud-wiz) (Mandiant's Defender’s Advantage Podcast)
 * [Interview by Dave Bittner](https://thecyberwire.com/podcasts/daily-podcast/2018/notes) (CyberWire Daily)
+* [Hot Cybercrime Summer:  Smishing, Supply Chains, and Sleuthcon](https://thecyberwire.com/podcasts/microsoft-threat-intelligence/71/notes) (Microsoft Threat Intelligence Podcast)
 
 ## Diagrams
 * [How do open-source supply chain attacks happen, and when should I worry?](https://x.com/AmitaiCo/status/1950896924401209666/photo/1)
