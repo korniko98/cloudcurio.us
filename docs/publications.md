@@ -42,7 +42,7 @@
 * "We built a community cloud vulnerability database, now what?" @ fwd:cloudsec (with [Alon Schindel](https://twitter.com/41thexplorer)) ([Recording](https://youtu.be/KwDo6KG76_c), [Slides](https://pretalx.com/media/fwd-cloudsec-2022/submissions/YJBJPK/resources/cloudvulndb_fwd_jLR2QM9.pdf))
 * "The Good, the Bad, and the Vulnerable: A comprehensive overview of vulnerabilities in cloud environments" @ fwd:cloudsec (with [Merav Bar](https://twitter.com/merav_br)) ([Recording](https://youtu.be/KwDo6KG76_c))
 * "The Forensic Trail On GitHub: Hunting For Supply Chain Activity" @ Black Hat Europe (with [Rami McCarthy](https://ramimac.me/)) ([Slides](https://i.blackhat.com/BH-EU-25/eu-25-McCarthy-Forensic-Trail-GitHub.pdf), [Recording](https://youtu.be/JZUV8dY7NG4?si=Zaqw9JuzGEoG4-66), [Dark Reading coverage](https://www.darkreading.com/application-security/supply-chain-attacks-targeting-github-actions-increased-in-2025))
-* "Angel(dust) in the Cloud: TeamPCP shows the vulnerability of CI/CD systems" @ SLEUTHCON (with [Ben Read](https://www.linkedin.com/in/benjamin-read-41817121/)) ([Abstract](https://www.sleuthcon.com/angeldust-in-the-cloud))
+* "Angel(dust) in the Cloud: TeamPCP shows the vulnerability of CI/CD systems" @ SLEUTHCON (with [Ben Read](https://www.linkedin.com/in/benjamin-read-41817121/)) ([Abstract](https://www.sleuthcon.com/angeldust-in-the-cloud), [CyberScoop coverage](https://cyberscoop.com/teampcp-breaks-open-source-software-trust-model/))
 
 ## Podcast Recordings
 > Co-hosting [Crying out Cloud](https://www.wiz.io/crying-out-cloud) with Eden Naftali.
